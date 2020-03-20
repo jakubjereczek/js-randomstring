@@ -1,0 +1,16 @@
+* {
+    margin: 0 auto;
+    width: 400px;
+}
+
+#page {
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: gray;
+}
