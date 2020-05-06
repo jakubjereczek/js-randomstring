@@ -5,4 +5,4 @@ A simple script to generate random string in JavaScript
 JavaScript
 
 ## General info
-Project made as part of JavaScript language learning.
+Project made as part of my JavaScript learning.
